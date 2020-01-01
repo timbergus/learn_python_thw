@@ -2,17 +2,21 @@ def add(a, b):
     print(f"Adding {a} + {b}")
     return a + b
 
+
 def subtract(a, b):
     print(f"Subtracting {a} - {b}")
     return a - b
+
 
 def multiply(a, b):
     print(f"Multiply {a} * {b}")
     return a * b
 
+
 def divide(a, b):
     print(f"Divide {a} / {b}")
     return a / b
+
 
 print("Let's do some maths with just functions!")
 

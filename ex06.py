@@ -11,8 +11,8 @@ do_not = "don't"
 # This is the second part of the joke.
 y = f"Those who know {binary} and those who {do_not}."
 
-print(x) # This prints the first part of the joke.
-print(y) # This prints the second part of the joke.
+print(x)  # This prints the first part of the joke.
+print(y)  # This prints the second part of the joke.
 
 # This tells the first part of the joke to a third person.
 print(f"I said: {x}")

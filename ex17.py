@@ -16,4 +16,3 @@ Ready, hit RETURN to continue, CTRL-C to abort.
 open(to_file, 'w').write(in_data)
 
 print("Alright, all done.")
-

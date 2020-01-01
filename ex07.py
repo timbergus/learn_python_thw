@@ -5,7 +5,7 @@ print("Its fleece was white as {}.".format('snow'))
 # Writes a string.
 print("And everywhere that Mary went.")
 # Repeats ten times a string.
-print("." * 10) # What'd that do?
+print("." * 10)  # What'd that do?
 
 # Declares a bunch of variables to form a word.
 end1 = "C"

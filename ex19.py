@@ -20,4 +20,3 @@ cheese_and_crackers(10 + 20, 5 + 6)
 
 print("And we can combine the two, variables and maths:")
 cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers + 1000)
-
